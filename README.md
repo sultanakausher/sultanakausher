@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about tech details
-- 📫 How to reach me: Linkedln
+- 📫 How to reach me: Linkedln-https://www.linkedin.com/in/sultana79/
 - 😄 Pronouns: she/Her
 - ⚡ Fun fact: I spend 2 hours playing game everyday.
 <img src="https://github-readme-stats.vercel.app/api?username=SultanaKausher&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
