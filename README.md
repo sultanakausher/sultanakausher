@@ -7,4 +7,4 @@
 - 📫 How to reach me: Linkedln
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I spend 2 hours playing game everyday.
-<img src="https://github-readme-stats.vercel.app/api?username=Demoupgrad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=SultanaKausher&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
