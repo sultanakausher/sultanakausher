@@ -1,8 +1,6 @@
 ### Hola, I'm Sultana Kausher 👋
-- 🔭 I’m currently working on Defmacro Software Private Limited.
+- 🔭 I’m currently working on ClearTax.
 - 🌱 I’m currently learning Full Stack 
-- 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about tech stuff
 - 📫 How to reach me: Linkedln-https://www.linkedin.com/in/sultana79/
 - 😄 Pronouns: she/Her
