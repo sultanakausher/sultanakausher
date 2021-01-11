@@ -2,8 +2,7 @@
 - 🔭 I’m currently working on ClearTax.
 - 🌱 I’m currently learning Full Stack 
 - 💬 Ask me about Tech Stuff
-- 📫 How to reach me: 
-<a href=" https://www.linkedin.com/in/sultana79/">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sultana79/">
   <img align="left" alt="Sultana's Linkdein" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
