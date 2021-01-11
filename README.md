@@ -3,8 +3,16 @@
 - 🌱 I’m currently learning Full Stack 
 - 💬 Ask me about Tech Stuff
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sultana79/">
-  <img align="left" alt="Sultana's Linkdein" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+                      <img align="left" alt="Sultana's Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+                       </a>
+                      <a href="https://www.facebook.com/sultana.siddiqui.9235">
+                     <img align="left" alt="Sultana's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+                      </a>
+                        <a href="https://www.instagram.com/">
+                    <img align="left" alt="Sultana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+                        </a>
+
+
 
 - 😄 Pronouns: she/Her
 - ⚡ Fun fact: I spend 1 hours playing game,Listing songs,painting everyday.
