@@ -11,7 +11,7 @@
                         <a href="https://www.instagram.com/">
                     <img align="left" alt="Sultana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
                         </a>
-                        - 📫 How to reach me:
+                    
 
 
 
