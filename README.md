@@ -1,5 +1,5 @@
 ### Hola, I'm Sultana Kausher 👋
-- 🔭 I’m currently working on ClearTax.
+- 🔭 I’m final year student.
 - 🌱 I’m currently learning Full Stack 
 - 💬 Ask me about Tech Stuff
 - 😄 Pronouns: she/Her
